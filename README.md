@@ -1,0 +1,1 @@
+Este repositorio tiene el proyecto final del curso Data Analytics de mi diplomado, el cual contiene un dashboard confeccionado en Power Bi, la documentacion en formato PDF y el archivo Excel con la data ya trabajada.
