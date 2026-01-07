@@ -72,7 +72,7 @@ El dashboard permite:
 
 * Explorar datos mediante filtros dinámicos
 
-# 📌 Conclusiones Principales
+# 📌 Conclusiones 
 
 * El precio de los vehículos disminuye significativamente con el aumento del kilometraje.
 
